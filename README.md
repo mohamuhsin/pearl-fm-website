@@ -9,5 +9,5 @@ The website will be showing news in different categories like local news, politi
 1. React.js - For Front End Development.
 2. Node.js, Express.js - For backend development.
 3. MongoDB - For database management.
-4. 
+4. CSS - For Styling the website.
 5. Next.js - For building full stack applications.
